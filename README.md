@@ -1,2 +1,2 @@
-# PDE2022
-NYU Partial Differential Equations class by A. Donev in Fall of 2022
+# NumAnal2021.github.io
+Class page and collaboration repositories for Numerical Analysis class at NYU taught by Aleks Donev
