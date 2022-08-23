@@ -34,7 +34,7 @@ Many natural phenomena have been successfully formulated as partial differential
 My lecture notes will not follow any specific textbook, however, I will refer to and students will use two textbooks:
 
 ### Primary 
-Walter Strauss, [Partial Differential Equations: An Introduction](https://www.wiley.com/en-us/Partial+Differential+Equations%3A+An+Introduction%2C+2nd+Edition-p-9780470473184), John Wiley & Sons, second edition, ISBN-13: 978-0470054567. This book has been used a number of times in previous semesters so there should be plenty of used copies. This book is focused and widely used, but it is a bit terse and may not provide enough explanations.
+Walter Strauss, [Partial Differential Equations: An Introduction]https://www.wiley.com/en-us/Partial+Differential+Equations%3A+An+Introduction%2C+2nd+Edition-p-9781119496694), John Wiley & Sons, second edition, ISBN-13: 978-0470054567. This book has been used a number of times in previous semesters so there should be plenty of used copies. This book is focused and widely used, but it is a bit terse and may not provide enough explanations.
 
 ### Secondary
 This secondary book is very nice and most complete textbook that is also freely available to you in PDF format is Peter J. Olver, Introduction to Partial Differential Equations, [available on Springer Link](http://link.springer.com/book/10.1007/978-3-319-02099-0). I strongly recommend using this textbook to get some additional perspective and more discussion and examples, especially when the primary source is not enough for you.
