@@ -1,0 +1,10 @@
+title: PDE class
+description: PDE class Fall 2022 at NYU by Aleks Donev
+author: Aleks Donev, Courant Institute
+theme: jekyll-theme-cayman
+plugins:
+  - jekyll-relative-links
+relative_links:
+  enabled: true
+  collections: true
+encoding: UTF-8
