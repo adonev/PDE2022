@@ -41,7 +41,7 @@ This secondary book is very nice and most complete textbook that is also freely 
 
 ## Grading
 
-The grade will be based on 25% Homework, 25% Midterm, 50% Final.
+The grade will be based on 20% Homework, 30% Midterm, 50% Final.
 
 [Academic integrity policies](http://www.nyu.edu/about/policies-guidelines-compliance/policies-and-guidelines/academic-integrity-for-students-at-nyu.html) will be strictly enforced for homework assignments. Copying homework problems from someone else is a serious violation that can lead to expulsion from your program.
 
