@@ -15,7 +15,7 @@ We will only do the first part of LA review, and come back to the rest when we n
 
 We will take some time to go through what is condensed in section 1.1 in Strauss, and contained in Chapter 1 of Olver.
 
-### 2 (Aug 6th) [Introduction to PDEs](Lectures/Lecture_Intro.pdf)
+### 2 (Aug 6th) [Introduction to PDEs](Lectures/Lecture_PDEIntro.pdf)
 
 We will go through some notations and examples of PDEs and some sample solutions.
 
