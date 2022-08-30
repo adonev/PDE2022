@@ -7,7 +7,7 @@ layout: default
 
 We will start (before Labor Day) with a review of some material from ODE, Linear Algebra, and multivariable calculus (as time permits) as this will be used in the class.
 
-Reading: Appendix B.1 and B.2 in Olver, Appendix A.1-A.3 in Strauss.
+Reading: Appendix B.1 and B.2 in Olver, Appendix A.1-A.3 in Strauss. We will also use complex numbers at some points in the class, which are reviewed in Appendix A of Olver.
 
 We will only review a small part of LA, and come back to the rest when we need it in the second half of the course.
 

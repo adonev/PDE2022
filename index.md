@@ -19,11 +19,12 @@ I have asked NYU ITS to record my lectures via panopto and post them on Brightsp
 ## Instruction
 
 ### Instructor
-Aleksandar Donev, ad139. Office hours Tuesdays 2-4pm EST starting 8/6/2022, unless communicated otherwise. Feel free to request an appointment by email.
+Aleksandar Donev, netid ad139. Office hours Tuesdays 2-4pm EST starting 8/6/2022, unless communicated otherwise. Feel free to request an appointment by email.
 ### Teaching Assistant
-TBD.
+Allyn Muzhi Xu (netid mx501)
+Office hours TBD
 ### Grader
-TBD, via Gradescope.
+Shuyu Liu (netid sl7695)
 
 ## Topics
 
