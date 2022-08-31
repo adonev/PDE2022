@@ -11,12 +11,13 @@ Homeworks will be submitted and graded via [Gradescope](https://www.gradescope.c
 * It is OK to discuss with other students the solution strategy, and compare results. You must however **explicitly acknowledge any help that you receive from any source**.
 * Each student must complete the derivation/solution and steps and write the solutions independently, ensuring that they understand and can reproduce the solution if called on. Copying of any portion of someone else's solution or allowing others to copy your solution is considered cheating.
 
-
 ## Homework assignments
 
-### 1. TBD
-
 Submit the solution on Gradescope.
+
+### 1. [Introduction to PDEs](Assignments/Homework1.pdf)
+
+This homework covers the basics of PDEs, and doesn't require much more than basic calculus to complete, so you should start working on it as soon as classes begin.
 
 <!---
 Commented out example
